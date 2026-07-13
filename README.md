@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Faizin
 
-<!--
-**FaizYA03/FaizYA03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Informatics Education  
+📍 Padang, Indonesia
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fresh Graduate with experience in administration, information systems, and document management. Interested in Administrative Support, Data Management, and Information Technology.
+
+## Skills
+
+- Microsoft Office
+- Microsoft Excel
+- Data Entry
+- Document Validation
+- Laravel
+- PHP
+- MySQL
+
+## Featured Project
+
+🚀 Internship Information System (Laravel)
+
+## Certifications
+
+🏆 MikroTik Certified Network Associate (MTCNA)
+
+🏆 Pertukaran Mahasiswa Merdeka (PMM)
+
+## Contact
+
+📧 Email
+muhammadfaizin030895@gmail.com
+
+🔗 LinkedIn
