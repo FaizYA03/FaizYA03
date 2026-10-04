@@ -25,7 +25,7 @@ Saya membangun aplikasi web dengan Laravel dan sedang memperdalam stack JavaScri
 | [tugas-app](https://github.com/FaizYA03/tugas-app) | Aplikasi Daftar Tugas fullstack: React, REST API Express, PostgreSQL | React, Express, PostgreSQL |
 | [student-task-manager](https://github.com/FaizYA03/student-task-manager) | Manajemen tugas kuliah: deadline, tugas berat/ringan, terhubung mata kuliah, pengingat | Laravel |
 | [ar-mobile-learning](https://github.com/FaizYA03/ar-mobile-learning) | Aplikasi mobile learning berbasis Augmented Reality dengan pemindai marker ArUco | Laravel, Flutter |
-| [Sistem-Magang](https://github.com/FaizYA03/) | Sistem informasi manajemen PKL SMKN 5 Padang (tugas akhir) | Laravel, MySQL |
+| [Sistem-Magang](https://github.com/FaizYA03/intership-information-system) | Sistem informasi manajemen PKL SMKN 5 Padang (tugas akhir) | Laravel, MySQL |
 
 ## 🌱 Sedang saya pelajari
 React, Node.js/Express, dan PostgreSQL melalui proyek fullstack.
