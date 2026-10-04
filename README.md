@@ -1,6 +1,6 @@
 # Halo, saya Muhammad Faizin 👋
 
-**Junior Fullstack Web Developer** dari Padang, Sumatera Barat.
+**Junior Fullstack Web Developer**
 Lulusan S1 Pendidikan Teknik Informatika, Universitas Negeri Padang (IPK 3,62).
 Saya membangun aplikasi web dengan Laravel dan sedang memperdalam stack JavaScript
 (React, Node.js/Express) dengan PostgreSQL.
